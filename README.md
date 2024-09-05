@@ -87,12 +87,3 @@ I am a MERN stack developer with experience in JavaScript and TypeScript. My exp
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Muhammad-Haram&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
