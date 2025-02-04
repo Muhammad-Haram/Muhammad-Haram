@@ -21,7 +21,7 @@ I am a MERN stack developer with experience in JavaScript and TypeScript. My exp
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [The-Little-Engineer](https://github.com/Muhammad-Haram/The-Little-Engineer))  
+- 🔭 I’m currently working on ([The-Little-Engineer](https://github.com/Muhammad-Haram/The-Little-Engineer))  
   
 
 - 🌱 I’m currently learning Three.js and strong backend part  
